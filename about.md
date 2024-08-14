@@ -10,5 +10,4 @@ I’m currently interning at the Naval Research Lab, working on research with LL
 
 **Contact**
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+salban \[dot\] nithilaselvan \[at\] gmail \[dot\] com
