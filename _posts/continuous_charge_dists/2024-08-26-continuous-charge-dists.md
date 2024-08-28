@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Contunuous Charge Distributions
+title:  Continuous Charge Distributions
 date:   2024-08-26 14:02:00 +0000
 categories: jekyll update
 usemathjax: true
