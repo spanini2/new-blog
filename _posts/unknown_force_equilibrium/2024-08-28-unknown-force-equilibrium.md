@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Solving for Unknown Force Equilibrium (E&M)
-date:   2024-08-26 14:02:00 +0000
+date:   2024-08-28 14:02:00 +0000
 categories: jekyll update
 usemathjax: true
 ---
