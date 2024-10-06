@@ -1,7 +1,7 @@
 # Site settings
 title: Salban Nithilaselvan # site title
 description: >- # site description
-  I write about math and deep learning when I'm bored
+  I write about math and deep learning
 lang: en-US # default lang
 timezone: America/New_York # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
