@@ -1,1 +1,1 @@
-I write about math and deep learning when I'm bored
+I write about math and deep learning
