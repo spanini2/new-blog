@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Salban Nithilaselvan # author name
   bio: >- # tell to the world
-    I write about math and deep learning when I'm bored
+    I write about math and deep learning
   username: spanini2 # general username
   github: spanini2 # github username
   twitter: twitter_username # twitter username
